@@ -42,4 +42,3 @@ While Python serves as the mathematical prototype, high-performance cryptography
 
 ---
 *Developed for research and exploration in Quantum Information Security.*
-# Kyber-KEM
